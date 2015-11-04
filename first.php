@@ -6,4 +6,7 @@ echo "Second publisity test:";
 echo "Hello my dear friend";
 echo "Glad to see you";
 
+echo "888";
+echo "999";
+
 ?> 
